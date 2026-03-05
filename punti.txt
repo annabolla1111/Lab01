@@ -1,4 +1,7 @@
+anna 5
+assankjh 4
 Paolo 4
-Lucia 1
 Mario 1
+Lucia 1
+anna 0
 Giuseppe 0
